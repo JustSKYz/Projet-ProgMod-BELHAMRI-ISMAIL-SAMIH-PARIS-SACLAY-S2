@@ -1,0 +1,10 @@
+#include "constants.hpp"
+
+int FOODINIT = 5;
+int FOODREPROD = 8;
+int MAXFOOD = 10;
+double PROBBIRTHRENARD = 0.05;
+double PROBBIRTHLAPIN = 0.3;
+int MINFREEBIRTHLAPIN = 4;
+double PROBREPROLAPIN = 0.15;
+double PROBREPRORENARD = 0.07;
